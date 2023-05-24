@@ -1,5 +1,8 @@
 _repo: A-visit-to-the-Bazaar_70595
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70595-h/images/cover.jpg
 creator:
   author:
     agent_name: Lover of children
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '55821'
     url: http://www.gutenberg.org/2009/agents/55821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70595#A-visit-to-the-Bazaar
 gutenberg_issued: '2023-04-19'
 identifiers:
   gutenberg: '70595'
